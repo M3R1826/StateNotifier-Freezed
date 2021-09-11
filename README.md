@@ -1,6 +1,13 @@
 # state_notifier_study
 
 A new Flutter project.
+pubspec.yamlに以下をインストールしてね
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner:
+  freezed:
+  json_serializable:
 
 ## Getting Started
 
