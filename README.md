@@ -1,7 +1,14 @@
 # state_notifier_study
 
 A new Flutter project.
-pubspec.yamlに以下をインストールしてね
+[pubspec.yamlに以下をインストールしてね]
+
+
+dependencies:
+-  freezed_annotation:
+  provider: ^5.0.0
+  state_notifier: ^0.7.0
+  flutter_state_notifier: ^0.7.0
 
 dev_dependencies:
 
