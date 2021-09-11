@@ -6,20 +6,17 @@ A new Flutter project.
 
 dependencies:
 -  freezed_annotation:
-  provider: ^5.0.0
-  state_notifier: ^0.7.0
-  flutter_state_notifier: ^0.7.0
+-  provider: ^5.0.0
+-  state_notifier: ^0.7.0
+-  flutter_state_notifier: ^0.7.0
 
-dev_dependencies:
-
-  flutter_test:
-    sdk: flutter
+[dev_dependencies:]
     
-  build_runner:
+-  build_runner:
   
-  freezed:
+-  freezed:
   
-  json_serializable:
+-  json_serializable:
 
 ## Getting Started
 
